@@ -1,9 +1,0 @@
-fn factorial() {
-    let mut i = 0;
-    let mut j = 0;
-
-    while i > 1 {
-        j = i
-        i = i - 1
-    }
-}
